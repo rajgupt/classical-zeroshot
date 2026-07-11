@@ -1,0 +1,13 @@
+[project]
+name = "classical-zeroshot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.11.0",
+    "openml>=0.15.1",
+    "tabicl>=2.1.1",
+    "tabpfn>=8.0.8",
+    "tabpfn-client>=0.3.3",
+]
